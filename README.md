@@ -72,3 +72,7 @@ Links to the result repositories will be posted here:
 - **Experiment 1 (MCMD) LS2 Results:** [https://huggingface.co/clouds125/TFM_EXP1_MCMD_LS2/tree/main]
 - **Experiment 2 (MCMD-NL) LS1 Results:** [https://huggingface.co/clouds125/TFM_EXP2_MCMD-NL_LS1/tree/main]
 - **Experiment 2 (MCMD-NL) LS2 Results:** [https://huggingface.co/clouds125/TFM_EXP2_MCMD-NL_LS2/tree/main]
+
+Links to the reproduction (part 1) repositories:
+- **CCT5 Reproduction:** [https://huggingface.co/clouds125/tfm_reproduction_CCT5/tree/main]
+- **COME Reproduction:** [https://huggingface.co/clouds125/tfm_reproduction_COME/tree/main]
